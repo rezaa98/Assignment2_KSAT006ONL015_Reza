@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET - Comments with id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>254e0b4b-1ce7-4475-b446-f329d0f270ff</testCaseGuid>
+</TestCaseEntity>
